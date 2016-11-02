@@ -5,7 +5,7 @@ The script is using Node.js to setup the Matlab Lab files for grading - COMP 120
 
 1) Clone this repository in your system.
 
-2) Make sure you have node.js install in your system. You can check that by using terminal/command line. Just type node -v and you should see the version of node.js.
+2) Make sure you have node.js install in your system. You can check that by using terminal/command line. Just type _node -v_** and you should see the version of node.js.
 
 3) After making sure of node.js, just type cd path/to/the/repository and go to the folder that you cloned.
 
