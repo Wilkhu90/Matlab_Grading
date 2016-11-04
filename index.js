@@ -1,3 +1,8 @@
+/* 
+	Author - Sumeet Wilkhu
+	Description - The script is using node.js to automate the process of preparing Matlab files for grading.
+
+*/ 
 var re = /([a-z-_\d]*)_\d+_\d+_([a-zA-Z\d]*)[-_\d+]*\.m/;
 var fs = require('fs');
 var unzip = require('unzip');
